@@ -40,11 +40,6 @@ ESP32-UNO/
 ├── ESP32-module.kicad_pro
 ├── ESP32-module.kicad_sch
 ├── ESP32-module.kicad_pcb
-├── bom.csv
-├── positions.csv
-├── designators.csv
-├── netlist.ipc
-├── Top.png
 └── README.md
 ```
 
@@ -52,10 +47,7 @@ ESP32-UNO/
 
 ## PCB Preview
 
-> Add a PCB image after uploading.
 
-```markdown
-![PCB Top](Top.png)
 ```
 
 ---
